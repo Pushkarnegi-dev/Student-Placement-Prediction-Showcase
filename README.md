@@ -65,3 +65,19 @@ The implementation repository is maintained separately. This public repository i
 MCA Student | Aspiring Data Engineer
 
 GitHub: [@Pushkarnegi-dev](https://github.com/Pushkarnegi-dev)
+
+
+## 📸 Project Screenshots
+
+### 1. Main Dashboard
+![Main Dashboard](dashboard.png)
+
+### 2. Student Registration
+![Student Registration](student-registration.png)
+
+### 3. Assessment Progress
+![Assessment Progress](assessment-progress.png)
+
+### 4. Final Results & AI Placement Prediction
+![AI Placement Prediction](ai-placement-prediction.png)
+

@@ -66,7 +66,6 @@ MCA Student | Aspiring Data Engineer
 
 GitHub: [@Pushkarnegi-dev](https://github.com/Pushkarnegi-dev)
 
-
 ## 📸 Project Screenshots
 
 ### 1. Main Dashboard
@@ -80,4 +79,3 @@ GitHub: [@Pushkarnegi-dev](https://github.com/Pushkarnegi-dev)
 
 ### 4. Final Results & AI Placement Prediction
 ![AI Placement Prediction](ai-placement-prediction.png)
-
